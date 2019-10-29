@@ -7,6 +7,7 @@
 
 ### Activities
 * 2019-09-03 Lightning talk about Automated Exploratory Data Analysis on databases with [Auto EDA](https://github.com/darenasc/auto-eda) at the 58th PyData London Meetup, ([slides](https://docs.google.com/presentation/d/1PMBsQNlMk3IjkZcLuZVRwG-s3TNeqTJxp0Y90W7FBro/edit?usp=sharing)) ([video](https://www.youtube.com/watch?v=vvvBWQLFtok)).
+* 2019-08-23 Paper (Design choices for productive, secure, data-intensive research at scale in the cloud)[https://arxiv.org/abs/1908.08737]
 * 2019-03-29 Talk "Radical automation of infrastructure and software for data science", Fourth Annual UK System Research Challenges Workshop, March 27–29, 2019 ([programme](http://uksystems.org)), ([slides](https://drive.google.com/open?id=1pGOK8WIwY1L1Vu07rFX_xE8GPL524DLih7oCRd7m7kQ))
 * 2019-03-25 Poster [Automated Feature Extraction from Databases for Data Analysis and Modelling](files/SICSA_poster.pdf) SICSA PhD Conference 2019, Stirling, UK.
 * 2019-02-20 Talk [AI National Strategies](https://drive.google.com/open?id=1OMAkbchJHNPfMTml14hPEQKzmvhdJMHELtnVsbeCY9k), Thinking Chile 2019, Seminar in Artificial Intelligence.
