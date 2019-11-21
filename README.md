@@ -11,6 +11,8 @@
 * 2019-03-29 Talk "Radical automation of infrastructure and software for data science", Fourth Annual UK System Research Challenges Workshop, March 27–29, 2019 ([programme](http://uksystems.org)), ([slides](https://drive.google.com/open?id=1pGOK8WIwY1L1Vu07rFX_xE8GPL524DLih7oCRd7m7kQ))
 * 2019-03-25 Poster [Automated Feature Extraction from Databases for Data Analysis and Modelling](files/SICSA_poster.pdf) SICSA PhD Conference 2019, Stirling, UK.
 * 2019-02-20 Talk [AI National Strategies](https://drive.google.com/open?id=1OMAkbchJHNPfMTml14hPEQKzmvhdJMHELtnVsbeCY9k), Thinking Chile 2019, Seminar in Artificial Intelligence.
+* 2018-05 Postition Paper [Scalable Digital Volunteering: A Data for Social Good Marketplace](files/ScalableDigitalVolunteering.pdf)
+* 2018-04 Position Paper [The Case for Data For Good](files/TheCaseForDataForGood.pdf)
 * 2018-04 Data Study Group team. (2019). Data Study Group Final Report: Global bank. [http://doi.org/10.5281/zenodo.2557809](http://doi.org/10.5281/zenodo.2557809)
 * 2017-12 Data Study Group team. (2018, September 13). Data Study Group Final Report: Codecheck. Zenodo. [http://doi.org/10.5281/zenodo.1415344](http://doi.org/10.5281/zenodo.1415344)
 * 2017-05-09 Talk [Big Data Analytics y Data Science](https://docs.google.com/presentation/d/1jM4aISvyp1c77929spxw9VnrftHK5wS9hbQxjFPygMI/edit?usp=sharing) Universidad Autónoma de Chile, Sede Talca, VII Región, Chile.
