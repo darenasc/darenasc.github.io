@@ -2,10 +2,11 @@
 
 ### Projects
 * [Auto EDA](https://github.com/darenasc/auto-eda) - Script to analyze database automatically.
-* [escuchAI](https://soundcloud.com/escuchai-escuchai) - Podcast about Artificial Intelligence (in spanish)
+* [escuchAI](https://escuchai.com) - Podcast about Artificial Intelligence (in spanish)
 * Machine Learning to state the global structure of Biodiversity, AI for Earth Microsoft's grant.
 
 ### Activities
+* 2020-01-23 Preprint paper [Signals of recent tropical radiations in Cunoniaceae, an iconic family for understanding Southern Hemisphere biogeography](https://www.biorxiv.org/content/10.1101/2020.01.23.916817v1).
 * 2019-09-03 Lightning talk about Automated Exploratory Data Analysis on databases with [Auto EDA](https://github.com/darenasc/auto-eda) at the 58th PyData London Meetup, ([slides](https://docs.google.com/presentation/d/1PMBsQNlMk3IjkZcLuZVRwG-s3TNeqTJxp0Y90W7FBro/edit?usp=sharing)) ([video](https://www.youtube.com/watch?v=vvvBWQLFtok)).
 * 2019-08-23 Paper [Design choices for productive, secure, data-intensive research at scale in the cloud](https://arxiv.org/abs/1908.08737)
 * 2019-03-29 Talk "Radical automation of infrastructure and software for data science", Fourth Annual UK System Research Challenges Workshop, March 27–29, 2019 ([programme](http://uksystems.org)), ([slides](https://drive.google.com/open?id=1pGOK8WIwY1L1Vu07rFX_xE8GPL524DLih7oCRd7m7kQ))
