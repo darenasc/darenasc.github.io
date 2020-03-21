@@ -1,4 +1,6 @@
-# darenasc.github.io 
+# darenasc.github.io
+
+[CV](files/CV_Diego_Arenas.pdf)
 
 ### Projects
 * [Auto EDA](https://github.com/darenasc/auto-eda) - Script to analyze database automatically.
