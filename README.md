@@ -4,6 +4,7 @@
 
 ### Projects
 * [Auto EDA](https://github.com/darenasc/auto-eda) - Script to analyze database automatically.
+* [Auto FES](https://github.com/darenasc/auto-fes) - Scripts to analyze plain file with datasets automatically.
 * [escuchAI](https://escuchai.com) - Podcast about Artificial Intelligence (in spanish)
 * Machine Learning to state the global structure of Biodiversity, AI for Earth Microsoft's grant.
 
