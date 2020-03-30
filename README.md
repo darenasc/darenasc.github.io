@@ -9,6 +9,7 @@
 * Machine Learning to state the global structure of Biodiversity, AI for Earth Microsoft's grant.
 
 ### Activities
+* 2020-03-30 Guest lecture at Bath University on Challenges on the FATE of AI for Good, ([slides](https://docs.google.com/presentation/d/1m54oATzNZE65apmAXmdtO4hOLNccjXwX8u8iELVUKrM/edit#slide=id.p)).
 * 2020-01-23 Preprint paper [Signals of recent tropical radiations in Cunoniaceae, an iconic family for understanding Southern Hemisphere biogeography](https://www.biorxiv.org/content/10.1101/2020.01.23.916817v1).
 * 2019-09-03 Lightning talk about Automated Exploratory Data Analysis on databases with [Auto EDA](https://github.com/darenasc/auto-eda) at the 58th PyData London Meetup, ([slides](https://docs.google.com/presentation/d/1PMBsQNlMk3IjkZcLuZVRwG-s3TNeqTJxp0Y90W7FBro/edit?usp=sharing)) ([video](https://www.youtube.com/watch?v=vvvBWQLFtok)).
 * 2019-08-23 Paper [Design choices for productive, secure, data-intensive research at scale in the cloud](https://arxiv.org/abs/1908.08737)
@@ -27,4 +28,5 @@
 * 2016-09-16 Talk [Introduction to Data](https://docs.google.com/presentation/d/1uPMz7Jkk8wB9E8evf20k_L5d8v2lDVR3QqNnFOC_v5M/edit?usp=sharing) Edinburgh UN Global Goals Jam, 2016.
 * 2016-09-11 Podcast, invited guest to Datalatam, episode ["La diferencia entre Business Intelligence y Data Science"](http://www.datalatam.com/11/) (in spanish)
 * 2014-12-11 Talk [Customer Intelligence, Oportunidades y Desafíos](https://www.slideshare.net/darenasc/customer-intelligence-42726084), Customer Intelligence Seminar, Universidad de Talca, Chile.
+* 2011-07-01 [Strategic Business Intelligence for NGOs](files/Business_Intelligence_and_Agile_Methodol.pdf), CEPIS Upgrade, European Journal for the Informatics Professional, Vol. XII, issue No. 3, July 2011, pag 38. 
 * 2009-03-14 Talk [Qué es Business Intelligence](https://www.slideshare.net/darenasc/que-es-bi-expotic-maule-2009-1146646), ExpoTIC, Curicó, Chile.
