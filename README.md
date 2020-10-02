@@ -1,8 +1,6 @@
 # darenasc.github.io
 
-[CV](files/CV_Diego_Arenas.pdf)
-[GitHub](https://github.com/darenasc/)
-[@darenasc](https://twitter.com/darenasc)
+[CV](files/CV_Diego_Arenas.pdf) | [GitHub](https://github.com/darenasc/) | [Twitter](https://twitter.com/darenasc)
 
 ### Projects
 * [Auto EDA](https://github.com/darenasc/auto-eda) - Script to analyze database automatically.
