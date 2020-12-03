@@ -3,20 +3,20 @@
 [CV](files/CV_Diego_Arenas.pdf) | [GitHub](https://github.com/darenasc/) | [Twitter](https://twitter.com/darenasc)
 
 ### Projects
-* [Auto EDA](https://github.com/darenasc/auto-eda) - Script to analyze database automatically.
-* [Auto FES](https://github.com/darenasc/auto-fes) - Scripts to analyze plain file with datasets automatically.
-* [escuchAI](https://escuchai.com) - Podcast about Artificial Intelligence (in spanish)
+* [Auto EDA](https://github.com/darenasc/auto-eda) - Python library to analyze databases automatically.
+* [Auto FES](https://github.com/darenasc/auto-fes) - Python library to analyze structured data from plain files automatically.
+* [escuchAI](https://escuchai.com) - Podcast about Artificial Intelligence (in spanish) ([Spotify](https://open.spotify.com/show/3TL2aujg5UsRD69tnTbtbj?si=7Vjf4NSJRp-HGKHCW7tUNQ) | [Apple Podcasts](https://podcasts.apple.com/gb/podcast/escuchai/id1542080256) | [SoundCloud](https://soundcloud.com/escuchai-escuchai))
 * Machine Learning to state the global structure of Biodiversity, AI for Earth Microsoft's grant.
 
 ### Activities
 * 2020-07-27 Talk "Docker and Containers for Data Science" at Social Data Society at DKUK, ([slides](https://docs.google.com/presentation/d/1CeyQzwyLR9j-0bLmonuOgYLwQ4ky7UhLsmz8w_XaGwM/edit#slide=id.p))
 * 2020-07-23 Paper [MLJ: A Julia package for composable Machine Learning](https://arxiv.org/abs/2007.12285)
 * 2020-06 / 2020-09 Technical Metor at the [Data Science for Social Good UK (DSSGxUK)](https://www.turing.ac.uk/collaborate-turing/data-science-social-good) summer program.
-* 2020-03-30 Guest lecture at Bath University on Challenges on the FATE of AI for Good, ([slides](https://docs.google.com/presentation/d/1m54oATzNZE65apmAXmdtO4hOLNccjXwX8u8iELVUKrM/edit#slide=id.p)).
+* 2020-03-30 Guest lecture at Bath University on Challenges on the FATE of AI for Good, ([slides](https://docs.google.com/presentation/d/1m54oATzNZE65apmAXmdtO4hOLNccjXwX8u8iELVUKrM/edit#slide=id.p)) ([video](https://www.youtube.com/watch?v=qDe1wfXAm1w)).
 * 2020-01-23 Preprint paper [Signals of recent tropical radiations in Cunoniaceae, an iconic family for understanding Southern Hemisphere biogeography](https://www.biorxiv.org/content/10.1101/2020.01.23.916817v1).
 * 2019-09-03 Lightning talk about Automated Exploratory Data Analysis on databases with [Auto EDA](https://github.com/darenasc/auto-eda) at the 58th PyData London Meetup, ([slides](https://docs.google.com/presentation/d/1PMBsQNlMk3IjkZcLuZVRwG-s3TNeqTJxp0Y90W7FBro/edit?usp=sharing)) ([video](https://www.youtube.com/watch?v=vvvBWQLFtok)).
 * 2019-08-23 Paper [Design choices for productive, secure, data-intensive research at scale in the cloud](https://arxiv.org/abs/1908.08737)
-* 2019-03-29 Talk "Radical automation of infrastructure and software for data science", Fourth Annual UK System Research Challenges Workshop, March 27–29, 2019 ([programme](http://uksystems.org)), ([slides](https://drive.google.com/open?id=1pGOK8WIwY1L1Vu07rFX_xE8GPL524DLih7oCRd7m7kQ))
+* 2019-03-29 Talk "Radical automation of infrastructure and software for data science", Fourth Annual UK System Research Challenges Workshop, March 27–29, 2019 ([programme](http://uksystems.org)) ([slides](https://drive.google.com/open?id=1pGOK8WIwY1L1Vu07rFX_xE8GPL524DLih7oCRd7m7kQ))
 * 2019-03-25 Poster [Automated Feature Extraction from Databases for Data Analysis and Modelling](files/SICSA_poster.pdf) SICSA PhD Conference 2019, Stirling, UK.
 * 2019-02-20 Talk [AI National Strategies](https://drive.google.com/open?id=1OMAkbchJHNPfMTml14hPEQKzmvhdJMHELtnVsbeCY9k), Thinking Chile 2019, Seminar in Artificial Intelligence.
 * 2018-05 Postition Paper [Scalable Digital Volunteering: A Data for Social Good Marketplace](files/ScalableDigitalVolunteering.pdf)
