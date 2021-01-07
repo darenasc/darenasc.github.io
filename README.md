@@ -9,6 +9,7 @@
 * Machine Learning to state the global structure of Biodiversity, AI for Earth Microsoft's grant.
 
 ### Activities
+* 2020-10-23 Talk "Desafíos en Inteligencia Artificial para el Bien Común", at IFICC ([video](https://www.youtube.com/watch?v=pnRLgD56N6w))
 * 2020-07-27 Talk "Docker and Containers for Data Science" at Social Data Society at DKUK, ([slides](https://docs.google.com/presentation/d/1CeyQzwyLR9j-0bLmonuOgYLwQ4ky7UhLsmz8w_XaGwM/edit#slide=id.p)) ([demo](https://github.com/darenasc/docker-demo))
 * 2020-07-23 Paper [MLJ: A Julia package for composable Machine Learning](https://arxiv.org/abs/2007.12285)
 * 2020-06 / 2020-09 Technical Metor at the [Data Science for Social Good UK (DSSGxUK)](https://www.turing.ac.uk/collaborate-turing/data-science-social-good) summer program.
