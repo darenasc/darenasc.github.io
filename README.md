@@ -9,6 +9,7 @@
 * Machine Learning to state the global structure of Biodiversity, AI for Earth Microsoft's grant.
 
 ### Activities
+* 2021-02-10 Blogpost at [KDNugget My machine learning model does not learn. What should I do?](https://www.kdnuggets.com/2021/02/machine-learning-model-not-learn.html) with [Rosaria Silipo](https://www.linkedin.com/in/rosaria/).
 * 2020-10-23 Talk "Desafíos en Inteligencia Artificial para el Bien Común", at IFICC ([video](https://www.youtube.com/watch?v=pnRLgD56N6w))
 * 2020-07-27 Talk "Docker and Containers for Data Science" at Social Data Society at DKUK, ([slides](https://docs.google.com/presentation/d/1CeyQzwyLR9j-0bLmonuOgYLwQ4ky7UhLsmz8w_XaGwM/edit#slide=id.p)) ([demo](https://github.com/darenasc/docker-demo))
 * 2020-07-23 Paper [MLJ: A Julia package for composable Machine Learning](https://arxiv.org/abs/2007.12285)
