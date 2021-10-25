@@ -31,6 +31,7 @@
 * 2017-05-05 Talk [Introducción a Data Science y Big Data](https://docs.google.com/presentation/d/16tdXvMhkcnqLdPimAc7DWjESwf8e3peANmPu2257kys/edit?usp=sharing) Universidad de Talca, Sede Santiago, Chile.
 * 2017-02-16 Talk [Data Science with Docker](https://drive.google.com/open?id=1lPFY8zarERKg_dMfI_LHnEH_1i6oLmaI), Edinburgh Docker Meetup, February 2017.
 * 2017-02-08 Poster [A Big Data Architecture for Chile](files/bigdataposterchile_v2.pdf). Thinking Chile Seminars 2018, Edinburgh, UK.
+* 2016-11 MSc in Data Science dissertation project: [Automatic hierarchical data extraction from relational databases](files/MSc_Dissertation_Project_Diego_Arenas.pdf).
 * 2016-11-20 Podcast, invited guest to Datalatam, episode ["Mesa redonda sobre la industria de datos"](http://www.datalatam.com/18/) (in spanish)
 * 2016-09-16 Talk [Introduction to Data](https://docs.google.com/presentation/d/1uPMz7Jkk8wB9E8evf20k_L5d8v2lDVR3QqNnFOC_v5M/edit?usp=sharing) Edinburgh UN Global Goals Jam, 2016.
 * 2016-09-11 Podcast, invited guest to Datalatam, episode ["La diferencia entre Business Intelligence y Data Science"](http://www.datalatam.com/11/) (in spanish)
