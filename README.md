@@ -14,6 +14,7 @@
 * 2020-10-23 Talk "Desafíos en Inteligencia Artificial para el Bien Común", at IFICC ([video](https://www.youtube.com/watch?v=pnRLgD56N6w))
 * 2020-07-27 Talk "Docker and Containers for Data Science" at Social Data Society at DKUK, ([slides](https://docs.google.com/presentation/d/1CeyQzwyLR9j-0bLmonuOgYLwQ4ky7UhLsmz8w_XaGwM/edit#slide=id.p)) ([demo](https://github.com/darenasc/docker-demo))
 * 2020-07-23 Paper [MLJ: A Julia package for composable Machine Learning](https://arxiv.org/abs/2007.12285)
+* 2020-07-03 Blogpost at [DataKindUK](https://datakind.org.uk)'s Medium: [What is it like to be a data for good volunteer?](https://medium.com/datakinduk/what-is-it-like-to-be-a-data-for-good-volunteer-9063859659c5)
 * 2020-06 / 2020-09 Technical Metor at the [Data Science for Social Good UK (DSSGxUK)](https://www.turing.ac.uk/collaborate-turing/data-science-social-good) summer program.
 * 2020-03-30 Guest lecture at Bath University on Challenges on the FATE of AI for Good, ([slides](https://docs.google.com/presentation/d/1m54oATzNZE65apmAXmdtO4hOLNccjXwX8u8iELVUKrM/edit#slide=id.p)) ([video](https://www.youtube.com/watch?v=qDe1wfXAm1w)).
 * 2020-01-23 Preprint paper [Signals of recent tropical radiations in Cunoniaceae, an iconic family for understanding Southern Hemisphere biogeography](https://www.biorxiv.org/content/10.1101/2020.01.23.916817v1).
