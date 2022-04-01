@@ -12,6 +12,7 @@
 * Machine Learning to state the global structure of Biodiversity, AI for Earth Microsoft's grant.
 
 ### Activities
+* 2022-03-31 Talk "A microservices architecture with Python and Docker containers" at Docker Community All-Hands #5, ([slides](https://docs.google.com/presentation/d/107sz-krcue5rpR_FWZp2_CmxbupplWuRykvrfXP2hEk/edit?usp=sharing)).
 * 2021-11-04 Talk Automated Exploratory Data Analysis of Databases at PyData Edinburgh Meetup, ([slides](https://docs.google.com/presentation/d/1dxh7bYndiFWfZPgTXaaXxoWnkrL0jiyN8KEk_qUTNBI/edit?usp=sharing)).
 * 2021-10-30 Lightning talk Automating the Exploration of Databases for Data Science with AEDA at PyData Global 2021, ([slides](https://docs.google.com/presentation/d/15lOZyjpFiHCfaZ18nn0NiULWZsKz2444FOH-REK3Xlk/edit?usp=sharing), [video](https://youtu.be/PsCKG8EZIfw?t=3314)).
 * 2021-02-16 Interview at Towards Data Science blog [The real AI Challenges into the Future, Do not worry, but worry](https://towardsdatascience.com/do-not-worry-but-worry-43b5902c1ce6) with [Rosaria Silipo](https://www.linkedin.com/in/rosaria/).
