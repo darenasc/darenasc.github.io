@@ -12,7 +12,9 @@
 * Machine Learning to state the global structure of Biodiversity, AI for Earth Microsoft's grant.
 
 ### Activities
+* 2022-06 / 2022-09 Technical Mentor at the [Data Science for Social Good xDFKI (DSSGxDFKI) 2022](https://sebastian.vollmer.ms/dssg/) summer program.
 * 2022-03-31 Talk "A microservices architecture with Python and Docker containers" at Docker Community All-Hands #5, ([slides](https://docs.google.com/presentation/d/107sz-krcue5rpR_FWZp2_CmxbupplWuRykvrfXP2hEk/edit?usp=sharing), [video](https://www.youtube.com/watch?v=0LPRomOq_i4)).
+* 2022-02 EngD in Computer Science thesis [Data Science use cases in the Manufacturing Industry: From theory to practice](files/EngD_Thesis_Diego_Arenas.pdf).
 * 2021-11-04 Talk Automated Exploratory Data Analysis of Databases at PyData Edinburgh Meetup, ([slides](https://docs.google.com/presentation/d/1dxh7bYndiFWfZPgTXaaXxoWnkrL0jiyN8KEk_qUTNBI/edit?usp=sharing)).
 * 2021-10-30 Lightning talk Automating the Exploration of Databases for Data Science with AEDA at PyData Global 2021, ([slides](https://docs.google.com/presentation/d/15lOZyjpFiHCfaZ18nn0NiULWZsKz2444FOH-REK3Xlk/edit?usp=sharing), [video](https://youtu.be/PsCKG8EZIfw?t=3314)).
 * 2021-02-16 Interview at Towards Data Science blog [The real AI Challenges into the Future, Do not worry, but worry](https://towardsdatascience.com/do-not-worry-but-worry-43b5902c1ce6) with [Rosaria Silipo](https://www.linkedin.com/in/rosaria/).
@@ -21,7 +23,7 @@
 * 2020-07-27 Talk "Docker and Containers for Data Science" at Social Data Society at DKUK, ([slides](https://docs.google.com/presentation/d/1CeyQzwyLR9j-0bLmonuOgYLwQ4ky7UhLsmz8w_XaGwM/edit#slide=id.p)) ([demo](https://github.com/darenasc/docker-demo))
 * 2020-07-23 Paper [MLJ: A Julia package for composable Machine Learning](https://arxiv.org/abs/2007.12285)
 * 2020-07-03 Blogpost at [DataKindUK](https://datakind.org.uk)'s Medium: [What is it like to be a data for good volunteer?](https://medium.com/datakinduk/what-is-it-like-to-be-a-data-for-good-volunteer-9063859659c5)
-* 2020-06 / 2020-09 Technical Metor at the [Data Science for Social Good UK (DSSGxUK)](https://www.turing.ac.uk/collaborate-turing/data-science-social-good) summer program.
+* 2020-06 / 2020-09 Technical Mentor at the [Data Science for Social Good UK (DSSGxUK)](https://www.turing.ac.uk/collaborate-turing/data-science-social-good) summer program.
 * 2020-03-30 Guest lecture at Bath University on Challenges on the FATE of AI for Good, ([slides](https://docs.google.com/presentation/d/1m54oATzNZE65apmAXmdtO4hOLNccjXwX8u8iELVUKrM/edit#slide=id.p)) ([video](https://www.youtube.com/watch?v=qDe1wfXAm1w)).
 * 2020-01-23 Preprint paper [Signals of recent tropical radiations in Cunoniaceae, an iconic family for understanding Southern Hemisphere biogeography](https://www.biorxiv.org/content/10.1101/2020.01.23.916817v1).
 * 2019-09-03 Lightning talk about Automated Exploratory Data Analysis on databases with [Auto EDA](https://github.com/darenasc/auto-eda) at the 58th PyData London Meetup, ([slides](https://docs.google.com/presentation/d/1PMBsQNlMk3IjkZcLuZVRwG-s3TNeqTJxp0Y90W7FBro/edit?usp=sharing)) ([video](https://www.youtube.com/watch?v=vvvBWQLFtok)).
