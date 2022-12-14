@@ -12,6 +12,7 @@
 * Machine Learning to state the global structure of Biodiversity, AI for Earth Microsoft's grant.
 
 ### Activities
+* 2022-12-14 Blogpost at [DataKindUK](https://datakind.org.uk)'s Medium: [Top tips for working with sensitive text data](https://medium.com/datakinduk/top-tips-for-working-with-sensitive-text-data-270c7c32cfcb).
 * 2022-06 / 2022-09 Technical Mentor at the [Data Science for Social Good xDFKI (DSSGxDFKI) 2022](https://sebastian.vollmer.ms/dssg/) summer program.
 * 2022-03-31 Talk "A microservices architecture with Python and Docker containers" at Docker Community All-Hands #5, ([slides](https://docs.google.com/presentation/d/107sz-krcue5rpR_FWZp2_CmxbupplWuRykvrfXP2hEk/edit?usp=sharing), [video](https://www.youtube.com/watch?v=0LPRomOq_i4)).
 * 2022-02 EngD in Computer Science thesis [Data Science use cases in the Manufacturing Industry: From theory to practice](files/EngD_Thesis_Diego_Arenas.pdf).
