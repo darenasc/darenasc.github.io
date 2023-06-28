@@ -9,7 +9,7 @@
 * [AEDA](https://github.com/darenasc/aeda/) - Python library to profile databases automatically. Former [Auto-EDA]((https://github.com/darenasc/auto-eda))
 * [Auto FES](https://github.com/darenasc/auto-fes) - Python library to analyze structured data from plain files automatically.
 * [Podcast escuchAI](https://escuchai.com) - Podcast about Artificial Intelligence, Data Science and Big Data (in spanish) ([Spotify](https://open.spotify.com/show/3TL2aujg5UsRD69tnTbtbj?si=7Vjf4NSJRp-HGKHCW7tUNQ)) ([Apple Podcasts](https://podcasts.apple.com/gb/podcast/escuchai/id1542080256)) ([SoundCloud](https://soundcloud.com/escuchai-escuchai))
-* Machine Learning to state the global structure of Biodiversity, AI for Earth Microsoft's grant.
+* [Paper Analysis App](https://paper-viz.streamlit.app) - App to visualize information about a given paper.
 
 ### Activities
 * 2022-12-14 Blogpost at [DataKindUK](https://datakind.org.uk)'s Medium: [Top tips for working with sensitive text data](https://medium.com/datakinduk/top-tips-for-working-with-sensitive-text-data-270c7c32cfcb).
