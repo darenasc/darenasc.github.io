@@ -1,6 +1,6 @@
 # darenasc.github.io
 
-[CV](files/CV_Diego_Arenas.pdf) | [GitHub](https://github.com/darenasc/) | [Twitter](https://twitter.com/darenasc) | [Data Science for Good](https://github.com/darenasc/data-science-for-good) repo
+[CV](files/CV_Diego_Arenas.pdf) | [GitHub](https://github.com/darenasc/) | [Twitter](https://twitter.com/darenasc) | [Data Science for Good](https://github.com/darenasc/data-science-for-good) repo | [Awesome Data for Good](https://github.com/darenasc/awesome-data-for-good)
 
 ![](https://img.shields.io/github/followers/darenasc?style=social) 
 ![](https://img.shields.io/twitter/follow/darenasc?style=social)
