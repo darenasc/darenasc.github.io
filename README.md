@@ -13,6 +13,7 @@
 * [App - UNGA78 Speech Analysis](https://unga-speeches-2023.streamlit.app).
 
 ### Activities
+* 2024-07-08 Lecture "MLOps" at RPTU ([slides](https://docs.google.com/presentation/d/1TVMxFsiBEaP-e0R2o-yiZWYouOwt0meyGh53hCM-1gk/edit?usp=sharing), [video](https://vcm.uni-kl.de/Panopto/Pages/Viewer.aspx?id=e2be298b-0131-4d5f-9b59-b1a7009abf5a&start=0)).
 * 2023-11-11 Workshop "Exploratory Data Analysis" at CorrelCon 2023, ([slides](https://docs.google.com/presentation/d/1mYtzt5Tfk_xbYSWUBRgiNH5TumJNUWlRVDMeyntee_w/edit?usp=sharing), [repo](https://github.com/darenasc/eda)).
 * 2022-12-14 Blogpost at [DataKindUK](https://datakind.org.uk)'s Medium: [Top tips for working with sensitive text data](https://medium.com/datakinduk/top-tips-for-working-with-sensitive-text-data-270c7c32cfcb).
 * 2022-06 / 2022-09 Technical Mentor at the [Data Science for Social Good xDFKI (DSSGxDFKI) 2022](https://sebastian.vollmer.ms/dssg/) summer program.
