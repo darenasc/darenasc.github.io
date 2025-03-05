@@ -11,6 +11,7 @@
 * [Podcast escuchAI](https://escuchai.com) - Podcast about Artificial Intelligence, Data Science and Big Data (in spanish) ([Spotify](https://open.spotify.com/show/3TL2aujg5UsRD69tnTbtbj?si=7Vjf4NSJRp-HGKHCW7tUNQ)) ([Apple Podcasts](https://podcasts.apple.com/gb/podcast/escuchai/id1542080256)) ([SoundCloud](https://soundcloud.com/escuchai-escuchai))
 * [App - Paper Analysis](https://paper-viz.streamlit.app). App to visualize information about a given paper.
 * [App - UNGA78 Speech Analysis](https://unga-speeches-2023.streamlit.app).
+* [App - UNGA79 Speech Analysis](https://unga79.streamlit.app).
 
 ### Activities
 * 2024-10-12 Talk "Starting Projects in Data4Good" at CorrelCon 2024 ([slides](https://docs.google.com/presentation/d/1NcaQEtwTbGttfMFWoSINO3YXBNaTejolN4gIgrId9QU/edit#slide=id.p)).
