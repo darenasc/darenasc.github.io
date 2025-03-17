@@ -1,10 +1,9 @@
 # darenasc.github.io
 
-[CV](files/CV_Diego_Arenas.pdf) | [GitHub](https://github.com/darenasc/) | [Twitter](https://twitter.com/darenasc) | [Data Science for Good](https://github.com/darenasc/data-science-for-good) repo | [Awesome Data for Good](https://darenasc.github.io/awesome-data-for-good/)
+[CV](files/CV_Diego_Arenas.pdf) | [GitHub](https://github.com/darenasc/) | [Data Science for Good](https://github.com/darenasc/data-science-for-good) repo | [Awesome Data for Good](https://darenasc.github.io/awesome-data-for-good/)
 
 ![](https://img.shields.io/github/followers/darenasc?style=social) 
 [![Follow @darenasc.bsky.social](https://img.shields.io/badge/@darenasc-whitesmoke?style=social&logo=bluesky)](https://bsky.app/profile/darenasc.bsky.social)
-
 
 ### Projects
 * [AEDA](https://github.com/darenasc/aeda/) - Python library to profile databases automatically. Former [Auto-EDA]((https://github.com/darenasc/auto-eda))
