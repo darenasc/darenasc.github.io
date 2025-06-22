@@ -28,7 +28,7 @@
 * 2021-10-30 Lightning talk Automating the Exploration of Databases for Data Science with AEDA at PyData Global 2021, ([slides](https://docs.google.com/presentation/d/15lOZyjpFiHCfaZ18nn0NiULWZsKz2444FOH-REK3Xlk/edit?usp=sharing), [video](https://youtu.be/PsCKG8EZIfw?t=3314)).
 * 2021-02-16 Interview at Towards Data Science blog [The real AI Challenges into the Future, Do not worry, but worry](https://towardsdatascience.com/do-not-worry-but-worry-43b5902c1ce6) with [Rosaria Silipo](https://www.linkedin.com/in/rosaria/).
 * 2021-02-10 Blogpost at [KDNugget My machine learning model does not learn. What should I do?](https://www.kdnuggets.com/2021/02/machine-learning-model-not-learn.html) with [Rosaria Silipo](https://www.linkedin.com/in/rosaria/).
-* 2020-10-23 Talk "Desafíos en Inteligencia Artificial para el Bien Común", at IFICC ([video](https://www.youtube.com/watch?v=pnRLgD56N6w))
+* 2020-10-23 Talk "Desafíos en Inteligencia Artificial para el Bien Común", at IFICC ([slides](https://docs.google.com/presentation/d/17-pAXbGLFM2sfqa6UGFNZETJIvhr_LgviuDR5X6YGNQ/edit?usp=sharing)) ([video](https://www.youtube.com/watch?v=pnRLgD56N6w))
 * 2020-07-27 Talk "Docker and Containers for Data Science" at Social Data Society at DKUK, ([slides](https://docs.google.com/presentation/d/1CeyQzwyLR9j-0bLmonuOgYLwQ4ky7UhLsmz8w_XaGwM/edit#slide=id.p)) ([demo](https://github.com/darenasc/docker-demo))
 * 2020-07-23 Paper [MLJ: A Julia package for composable Machine Learning](https://arxiv.org/abs/2007.12285)
 * 2020-07-03 Blogpost at [DataKindUK](https://datakind.org.uk)'s Medium: [What is it like to be a data for good volunteer?](https://medium.com/datakinduk/what-is-it-like-to-be-a-data-for-good-volunteer-9063859659c5)
