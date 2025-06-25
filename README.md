@@ -14,9 +14,11 @@
 * [App - UNGA79 Speech Analysis](https://unga79.streamlit.app). ([repo](https://github.com/darenasc/unga79))
 
 ### Activities
+
+* 2025-06-25 Talk "IA para el Bien Común" at Charlas ACHIRP 2025 (Spanish) ([slides](https://docs.google.com/presentation/d/1k3H62qtckq9iYvj2ziCsk2Jph_nOkg-obzYmB_DcMpI/edit?usp=sharing)).
 * 2024-10-12 Talk "Starting Projects in Data4Good" at CorrelCon 2024 ([slides](https://docs.google.com/presentation/d/1NcaQEtwTbGttfMFWoSINO3YXBNaTejolN4gIgrId9QU/edit#slide=id.p)).
-* 2024-10-12 Worksop "(automated) Exploratory Data Analysis" at CorrelCon 2024 ([slides](https://docs.google.com/presentation/d/18An6Y9cGu1lSO2enbFsOwY-xxaPBPh12tw7MJAZluOk/edit#slide=id.p), [repo](https://github.com/darenasc/eda/tree/main/notebooks/correlcon_2024)).
-* 2024-09-24 Lecture [Ciencia de datos para el estudio del despojo](https://www.youtube.com/watch?v=mxdkW-Lw-8c) (spanish) with [Dr. Nicolás Vargas Ramírez](https://scholar.google.es/citations?user=lOloCkYAAAAJ&hl=es).
+* 2024-10-12 Workshop "(automated) Exploratory Data Analysis" at CorrelCon 2024 ([slides](https://docs.google.com/presentation/d/18An6Y9cGu1lSO2enbFsOwY-xxaPBPh12tw7MJAZluOk/edit#slide=id.p), [repo](https://github.com/darenasc/eda/tree/main/notebooks/correlcon_2024)).
+* 2024-09-24 Lecture [Ciencia de datos para el estudio del despojo](https://www.youtube.com/watch?v=mxdkW-Lw-8c) (Spanish) with [Dr. Nicolás Vargas Ramírez](https://scholar.google.es/citations?user=lOloCkYAAAAJ&hl=es).
 * 2024-07-08 Lecture "MLOps" at RPTU ([slides](https://docs.google.com/presentation/d/1TVMxFsiBEaP-e0R2o-yiZWYouOwt0meyGh53hCM-1gk/edit?usp=sharing), [video](https://vcm.uni-kl.de/Panopto/Pages/Viewer.aspx?id=e2be298b-0131-4d5f-9b59-b1a7009abf5a&start=0)).
 * 2023-11-11 Workshop "Exploratory Data Analysis" at CorrelCon 2023, ([slides](https://docs.google.com/presentation/d/1mYtzt5Tfk_xbYSWUBRgiNH5TumJNUWlRVDMeyntee_w/edit?usp=sharing), [repo](https://github.com/darenasc/eda)).
 * 2023-09-06 Blogpost at [DataKindUK](https://datakind.org.uk)'s Medium: [Putting your charity on the map](https://medium.com/datakinduk/putting-your-charity-on-the-map-5526eba4d116)
