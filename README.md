@@ -12,6 +12,7 @@
 * [App - Paper Analysis](https://paper-viz.streamlit.app). App to visualize information about a given paper ([repo](https://github.com/darenasc/paper-analysis)).
 * [App - UNGA78 Speech Analysis](https://unga-speeches-2023.streamlit.app). ([repo](https://github.com/darenasc/un-speeches))
 * [App - UNGA79 Speech Analysis](https://unga79.streamlit.app). ([repo](https://github.com/darenasc/unga79))
+* [Trivia Game](https://darenasc-trivia-game.streamlit.app/) ([repo](https://github.com/darenasc/trivia-game))
 
 ### Activities
 
