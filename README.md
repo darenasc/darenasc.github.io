@@ -13,10 +13,12 @@
 * [App - UNGA78 Speech Analysis](https://unga-speeches-2023.streamlit.app). ([repo](https://github.com/darenasc/un-speeches))
 * [App - UNGA79 Speech Analysis](https://unga79.streamlit.app). ([repo](https://github.com/darenasc/unga79))
 * [App - UNGA80 Speech Analysis](https://unga80.streamlit.app). ([repo](https://github.com/darenasc/unga80))
+* [App - UNGA81 Speech Analysis](https://unga81.streamlit.app). ([repo](https://github.com/darenasc/unga81))
 * [Trivia Game](https://darenasc-trivia-game.streamlit.app/) ([repo](https://github.com/darenasc/trivia-game))
 
 ### Activities
 
+* 2026-09-15 Talk "Dónde estamos y hacia dónde vamos con IA" at Workshop on Agentic AI for biodiversity Biodata/UdeC (Spanish) ([slides](https://docs.google.com/presentation/d/1V5vZpJkw3VhTkUecSU3OuMuFNRUfUholS1KjGHN_Ejs/edit?usp=sharing))
 * 2025-06-25 Talk "IA para el Bien Común" at Charlas ACHIRP 2025 (Spanish) ([slides](https://docs.google.com/presentation/d/1k3H62qtckq9iYvj2ziCsk2Jph_nOkg-obzYmB_DcMpI/edit?usp=sharing)) ([video](https://www.youtube.com/watch?v=XrPlQgqmWPQ)).
 * 2024-10-12 Talk "Starting Projects in Data4Good" at CorrelCon 2024 ([slides](https://docs.google.com/presentation/d/1NcaQEtwTbGttfMFWoSINO3YXBNaTejolN4gIgrId9QU/edit#slide=id.p)).
 * 2024-10-12 Workshop "(automated) Exploratory Data Analysis" at CorrelCon 2024 ([slides](https://docs.google.com/presentation/d/18An6Y9cGu1lSO2enbFsOwY-xxaPBPh12tw7MJAZluOk/edit#slide=id.p)) ([repo](https://github.com/darenasc/eda/tree/main/notebooks/correlcon_2024)).
