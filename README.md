@@ -1,6 +1,6 @@
 # darenasc.github.io
 
-[CV](files/CV_Diego_Arenas.pdf) | [GitHub](https://github.com/darenasc/) | [Data Science for Good](https://github.com/darenasc/data-science-for-good) repo | [Awesome Data for Good](https://darenasc.github.io/awesome-data-for-good/) | [`skyline`](./darenasc-2020-26-github-skyline.stl)
+[CV](files/CV_Diego_Arenas.pdf) | [GitHub](https://github.com/darenasc/) | [Data Science for Good](https://github.com/darenasc/data-science-for-good) repo | [Awesome Data for Good](https://darenasc.github.io/awesome-data-for-good/) | [`skyline`](https://github.com/darenasc/darenasc.github.io/blob/master/darenasc-2020-26-github-skyline.stl)
 
 ![](https://img.shields.io/github/followers/darenasc?style=social) 
 [![Follow @darenasc.bsky.social](https://img.shields.io/badge/@darenasc-whitesmoke?style=social&logo=bluesky)](https://bsky.app/profile/darenasc.bsky.social)
@@ -8,7 +8,7 @@
 <details>
 <summary>GitHub Skyline</summary>
 
-```
+```bash
                   ╻     ╻        ╻╻             ╻
                   ░  ╻  ░        ░░╻╻ ╻╻    ╻╻╻╻░   ╻
             ╻   ╻╻░ ┃░ ╻░╻ ╻     ░░░░ ░░ ╻  ░░░░░  ╻░
