@@ -5,6 +5,67 @@
 ![](https://img.shields.io/github/followers/darenasc?style=social) 
 [![Follow @darenasc.bsky.social](https://img.shields.io/badge/@darenasc-whitesmoke?style=social&logo=bluesky)](https://bsky.app/profile/darenasc.bsky.social)
 
+<details>
+<summary>GitHub Skyline</summary>
+
+```
+                  ╻     ╻        ╻╻             ╻
+                  ░  ╻  ░        ░░╻╻ ╻╻    ╻╻╻╻░   ╻
+            ╻   ╻╻░ ┃░ ╻░╻ ╻     ░░░░ ░░ ╻  ░░░░░  ╻░
+       ╻    ░  ╻░░░╻░░ ░░░ ░ ╻╻╻╻░░░░╻░░╻░ ╻░░░░░╻╻░░
+   ╻   ░╻  ╻░ ╻░░░░░░░ ▒░░╻░ ░▒░░░░░▒░░░░░ ▒░░░░░░░░░
+   ░░ ░░▒░░░░░░░░░░░░░ ░░░░░░░▒░░░▒░▓░░░░░ ░░░░░░░░░░
+2020
+                           ╻  ╻                  ╻
+    ╻  ╻                  ╻░  ░              ╻   ▒
+ ╻╻ ▒  ░            ╻    ╻▓░╻ ░╻╻ ╻        ╻╻░ ┃╻▒╻
+ ░░╻▒╻┃░ ╻  ╻ ╻  ╻  ░ ╻╻╻░▓░░╻░░░ ░  ╻    ╻░▒░ ░░░░
+ ▓▒░░░░▒╻░╻╻░╻░  ░  ░ ░░▒▒░▓░░░░░ ░╻╻░╻   ░░░░╻░░░░
+ ░▓▓▒░░░░░░▒░░░░▒░░ ░ ░▒░▒▒▒░░░░░▓░░░░░░ ░░░░░░▒▓░▓░▒
+2021
+                                                    ╻
+                   ╻                                ▒
+   ╻              ╻░                  ╻             ▒
+   ░╻             ░░                  ░╻            ▒
+   ▒▒     ╻╻┃   ╻╻░░   ┃   ╽ ╻ ╻      ▒░╻ ╻         ░
+   ░▒    ┃░░░ ┃ ░░▒░ ╻ ░ ╻ ▒╻░╻░   ╻╻ ░░░ ░    ╻    ▒
+  ░░░ ░  ░░▒░░░░░▒░░ ░ ░ ░ ▓░░▒░░  ▓░░░▒░░░░░ ░░ ░░░░
+2022
+                           ╻
+           ╽       ╽     ╻ ░  ╻
+  ╽        ░╻╻   ╻ ░ ┃  ╻░┃░  ░╻       ┃
+╻╻░┃   ╻   ░░░   ░ ▒ ░  ░▒░░ ╻░░  ╻╻   ░  ┃╻
+░░░░  ╻░   ░░░  ╻░╻░╻░  ░▒░░╻░░░  ░░  ╻░╻ ░░ ┃  ╻
+░░░░  ░░╻  ░░░╻ ░░░░░░╻╻░░░▒░░░░╻ ░░╻ ░░░╻░░ ░ ╻░╻
+░░░░░░░░░▒░░▓░░ ░░░░░░░░▒░░░░░▒░░░▒░░░░░░░░▒░░░░░░ ░░
+2023
+       ╻                         ╻
+  ╻╻  ┃▓ ╻                      ╻░
+ ╻░▒┃╻░░╽░   ╻╻ ╻               ░░ ╻        ╻
+ ░░░░▒░░░░╻  ░░╻░          ╻    ░░╻░     ╻  ░
+╻░░░░░░░▒░░╻╻░░░░┃        ╻░ ╻ ╻░░░░╻ ╻╻ ░ ╻░╻    ┃╽
+░░░░░░░░░░░░░░░░░░╻      ╻░░ ░╻░░░░░░┃░░ ░╻▒░░╻  ╻░▓
+░▒░░▒░░▒░░░░▒░░░░▒▒░ ░░ ░░░░▒░░░░░▓░░░░░░░░░░░░  ░░░
+2024
+        ┃
+     ╻ ╽░ ╻
+     ░╻░░┃▒┃   ┃╻                                 ╽╻
+     ▒░▒▒▒▒░┃  ░▒╻╻      ╻    ╻       ╻         ╻ ▒░
+     ▒░░░▓░▒░  ░░░░╻╻ ╻┃ ░    ▒╻      ░┃        ░ ▒▒
+     ░▒░▒▒▒▒░╻ ░░▒░░░╻░░╻░ ┃  ░░╻╻╻╻  ░░┃  ╻    ░ ░░╻
+   ░░░▒▒▒░░░░░░░░░░░░░░░▒░░░ ░▒░░░░░░░░░░░ ░ ░░░░░░▒░
+2025
+            ╻╻  ╻                     ╻╻  ╻   
+            ░░  ░    ╻ ╻              ░░╻ ░┃  
+    ╻╻      ░▒ ┃░   ╻░ ░            ╻┃░░░╻░░╻ 
+    ░░      ░░╻░▒╻ ╻░░╻░       ╻╻┃  ▒▒░▒░░░░░╽
+ ╻╻╻░░╻    ╻░░░░░░ ░░░░░       ░░░╻╻▒▓░▓░░░░▓░
+ ░░░░░░╻   ░░░▒░░░ ░░░░░    ┃  ░░▒░▒▒░▓░░░░░░▓
+░░░░░░░░░░ ░░░░▓░░░░░░░░   ░░▒ ░░░░░░▒▒░▒░▒░░░
+2026
+```
+</details>
+
 ### Projects
 * [AEDA](https://github.com/darenasc/aeda/) - Python library to profile databases automatically. Former [Auto-EDA]((https://github.com/darenasc/auto-eda))
 * [Auto FES](https://github.com/darenasc/auto-fes) ([docs](https://darenasc.github.io/auto-fes/)) - Python library to analyze structured data from plain files automatically.
@@ -18,6 +79,8 @@
 
 ### Activities
 
+* 2026-11-14 "UN LLM Analysis" - Group Project at CorrelCon 26 ([slides](https://docs.google.com/presentation/d/1YLxwsloAesy10xW-6NnqV-FWnD52C6YaRbxLZV1YmNI/edit?slide=id.p#slide=id.p), [repo](https://github.com/darenasc/UN-LLM-Analysis/), [app](https://un-llm-analysis.streamlit.app))
+* 2026-11-14 "Scope your next data for good project" at CorrelCon 26 ([slides](https://docs.google.com/presentation/d/1tQ7U1ymDkL5WGtmnm_bnHexHxNNYrSLxB0xLrCKLSNg/edit?slide=id.p#slide=id.p))
 * 2026-09-15 Talk "Dónde estamos y hacia dónde vamos con IA" at Workshop on Agentic AI for biodiversity Biodata/UdeC (Spanish) ([slides](https://docs.google.com/presentation/d/1V5vZpJkw3VhTkUecSU3OuMuFNRUfUholS1KjGHN_Ejs/edit?usp=sharing))
 * 2025-06-25 Talk "IA para el Bien Común" at Charlas ACHIRP 2025 (Spanish) ([slides](https://docs.google.com/presentation/d/1k3H62qtckq9iYvj2ziCsk2Jph_nOkg-obzYmB_DcMpI/edit?usp=sharing)) ([video](https://www.youtube.com/watch?v=XrPlQgqmWPQ)).
 * 2024-10-12 Talk "Starting Projects in Data4Good" at CorrelCon 2024 ([slides](https://docs.google.com/presentation/d/1NcaQEtwTbGttfMFWoSINO3YXBNaTejolN4gIgrId9QU/edit#slide=id.p)).
